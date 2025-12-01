@@ -9,11 +9,11 @@ function App () {
     return(
       <div>
         <h1>Three Components in one File</h1>
-        <button className="green-btn"
-        onClick={() => setColor("green")}>Green</button>
+        <button className="purple-btn"
+        onClick={() => setColor("purple")}>purple</button>
 
         <button className="red-btn"
-        onClick={() => setColor("red")}>Red</button>
+        </div>onClick={() => setColor("red")}>Red</button>
 
         <button className="yellow-btn"
         onClick={() => setColor("yellow")}>Yellow</button>
