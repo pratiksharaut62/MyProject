@@ -10,7 +10,7 @@ function App () {
       <div>
         <h1>Three Components in one File</h1>
         <button className="green-btn"
-        onClick={() => setColor("green")}>Green</button>
+        onClick={() => setColor("green")}>Pink</button>
 
         <button className="red-btn"
         onClick={() => setColor("red")}>Red</button>
